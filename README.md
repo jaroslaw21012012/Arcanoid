@@ -12,7 +12,6 @@ pip install pygame
 python app.py
 ```
 
-2. Or run exe file
 
 
 
